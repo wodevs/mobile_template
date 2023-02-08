@@ -1,0 +1,8 @@
+{
+  "name": "mobile_template",
+  "version": "0.0.1",
+  "description": "WODEVS React Native Template",
+  "repository": "https://github.com/wodevs/mobile_template.git",
+  "author": "Willy Osorto <willy@wodevs.com>",
+  "license": "MIT"
+}
